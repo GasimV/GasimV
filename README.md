@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a **Data Scientist** and **Robotics Mechatronics Engineer** with a robust background in Python backend development and some frontend expertise. My passion lies in integrating data science with robotic system design, where I employ a broad range of technical skills to innovate and optimize intelligent robotic solutions.
+I am a **Data Scientist** and **Robotics Mechatronics Engineer** with a robust background in Python backend and C/C++ development, along with some frontend expertise. My passion lies in integrating data science with robotic system design, where I employ a broad range of technical skills to innovate and optimize intelligent robotic solutions.
 
 ## Technical Proficiency
 
@@ -27,11 +27,11 @@ I am a **Data Scientist** and **Robotics Mechatronics Engineer** with a robust b
 - **Frameworks and Tools**: ROS, MATLAB, HTML, CSS, JavaScript, Flutter/Dart
 - **Design & Engineering**: CAD, Mechanical Design, Electrical/Computer Engineering
 - **Machine Learning Domains**: NLP, Computer Vision, Speech Processing, Tabular Data
-- **Control Systems**: Extensive experience in Control Systems Engineering for Robotics
+- **Control Systems**: Control Systems Engineering for Robotics
 
 ## My Work
 
-I focus on the fusion of data-driven analytics and robotics engineering to push the boundaries of intelligent robotics. My goal is to create responsive and intuitive interfaces for robotic applications, making them more accessible and effective in real-world applications.
+I focus on the fusion of data-driven analytics, AI/ML and robotics engineering to push the boundaries of intelligent robotics, create responsive and intuitive interfaces for robotic applications, making them more accessible and effective in real-world applications.
 
 ## Let's Connect!
 
