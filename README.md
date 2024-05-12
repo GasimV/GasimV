@@ -19,22 +19,15 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hi there! I am a **Data Scientist** and **Robotics Mechatronics Engineer** with a robust background in Python backend development and some frontend expertise. My passion lies in integrating data science with robotic system design, where I employ a broad range of technical skills to innovate and optimize intelligent robotic solutions.
+I am a **Data Scientist** and **Robotics Mechatronics Engineer** with a robust background in Python backend development and some frontend expertise. My passion lies in integrating data science with robotic system design, where I employ a broad range of technical skills to innovate and optimize intelligent robotic solutions.
 
 ## Technical Proficiency
 
 - **Programming Languages**: Python, C/C++
-- **Frameworks and Tools**: ROS, HTML, CSS, JavaScript, Flutter/Dart
+- **Frameworks and Tools**: ROS, MATLAB, HTML, CSS, JavaScript, Flutter/Dart
 - **Design & Engineering**: CAD, Mechanical Design, Electrical/Computer Engineering
 - **Machine Learning Domains**: NLP, Computer Vision, Speech Processing, Tabular Data
-- **Control Systems**: Extensive experience in control systems engineering for robotics
-
-## Projects
-
-Here are some of the projects I've worked on that I'm particularly proud of:
-- **Intelligent Vision System for Autonomous Robots**: Developed a computer vision system using Python and OpenCV that significantly improved the navigation capabilities of service robots in complex environments.
-- **Speech Recognition Interface**: Implemented a speech-to-text processing tool to allow voice control over robotic units, enhancing accessibility and usability.
-- **Data-Driven Predictive Maintenance**: Created machine learning models to predict machinery failures, reducing downtime and maintenance costs in industrial settings.
+- **Control Systems**: Extensive experience in Control Systems Engineering for Robotics
 
 ## My Work
 
@@ -44,8 +37,7 @@ I focus on the fusion of data-driven analytics and robotics engineering to push 
 
 If you're interested in collaborating or if you think my expertise could help your project or company, please feel free to reach out:
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com)
-- **Email**: [Your Email](mailto:your.email@example.com)
+- **LinkedIn**: [linkedin.com/in/gasym-valiyev-739a55147](https://www.linkedin.com)
 
 I am currently open to job offers and exciting projects!
 
