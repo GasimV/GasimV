@@ -37,7 +37,7 @@ I focus on the fusion of data-driven analytics, AI/ML and robotics engineering t
 
 If you're interested in collaborating or if you think my expertise could help your project or company, please feel free to reach out:
 
-- **LinkedIn**: [linkedin.com/in/gasym-valiyev-739a55147](https://www.linkedin.com)
+- **LinkedIn**: [[linkedin.com/in/gasym-valiyev-739a55147](https://www.linkedin.com/in/gasym-a-valiyev-739a55147/)](https://www.linkedin.com)
 
 I am currently open to job offers and exciting projects!
 
