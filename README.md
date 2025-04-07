@@ -39,6 +39,4 @@ If you're interested in collaborating or if you think my expertise could help yo
 
 - **LinkedIn**: [[linkedin.com/in/gasym-valiyev-739a55147](https://www.linkedin.com/in/gasym-a-valiyev-739a55147/)](https://www.linkedin.com)
 
-I am currently open to job offers and exciting projects!
-
 ---
