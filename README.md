@@ -19,24 +19,82 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a **Data Scientist** and **Robotics Mechatronics Engineer** with a robust background in Python backend and C/C++ development, along with some frontend expertise. My passion lies in integrating data science with robotic system design, where I employ a broad range of technical skills to innovate and optimize intelligent robotic solutions.
+I am a **Data Scientist | AI Architect & Engineer | Robotics & Mechatronics Engineer** focused on **designing intelligent systems using whatever technology the problem demands**.
+
+I specialize in the **integration of AI, data-driven intelligence, and robotic systems**, combining software architecture, machine learning, and engineering disciplines to build **end-to-end intelligent solutions**—from perception and decision-making to control and real-world deployment.
+
+I have strong expertise in **architecting AI-driven systems** using modern architectural practices, including **C4 Model–based system design**, **ADR-driven decision making**, and **architecture verification (ATAM)**. My work focuses on building **scalable, secure, and cost-efficient AI platforms**, particularly for **GenAI, RAG-based systems, and multi-agent architectures**, while maintaining high standards of quality, observability, and governance.
+
+With a background in **Robotics & Mechatronics Engineering**, I bridge **AI software architecture with physical systems**, control logic, sensors, actuators, and hardware-aware constraints—enabling intelligent systems that operate reliably in real-world, dynamic environments.
+
+---
 
 ## Technical Proficiency
 
-- **Programming Languages**: Python, C/C++
-- **Frameworks and Tools**: ROS, MATLAB, HTML, CSS, JavaScript, Flutter/Dart
-- **Design & Engineering**: CAD, Mechanical Design, Electrical/Computer Engineering
-- **Machine Learning Domains**: NLP, Computer Vision, Speech Processing, Tabular Data
-- **Control Systems**: Control Systems Engineering for Robotics
+* **Programming Languages**: Python, C/C++
+* **Frameworks & Tools**: ROS, MATLAB, HTML/CSS/JavaScript, Flutter/Dart
+* **AI / Machine Learning**: NLP, Computer Vision, Speech Processing, Tabular Data
+* **System & Software Architecture**:
 
-## My Work
+  * AI system design
+  * Distributed systems
+  * **C4 Model (Context, Container, Component, Code)**
+  * API & backend architecture
+* **Design & Engineering**: CAD, Mechanical Design, Electrical & Computer Engineering
+* **Control Systems**: Control Systems Engineering for Robotics
 
-I focus on the fusion of data-driven analytics, AI/ML and robotics engineering to push the boundaries of intelligent robotics, create responsive and intuitive interfaces for robotic applications, making them more accessible and effective in real-world applications.
+---
 
-## Let's Connect!
+## Core Expertise (AI Architecture–Focused)
 
-If you're interested in collaborating or if you think my expertise could help your project or company, please feel free to reach out:
+* **AI & Software Architecture**
 
-- **LinkedIn**: [linkedin.com/in/gasym-valiyev-739a55147](https://www.linkedin.com/in/gasym-a-valiyev-739a55147/)](https://www.linkedin.com)
+  * C4 Model (Context, Container, Component)
+  * High-Level & Low-Level Design (HLD / LLD)
+  * Architecture Decision Records (ADR)
+  * Architecture Tradeoff Analysis (ATAM)
+  * API design (OpenAPI), integration patterns
+
+* **GenAI & Intelligent Systems**
+
+  * Retrieval-Augmented Generation (RAG, hybrid RAG, re-ranking)
+  * AI Agents & Multi-Agent Systems (ReAct, Plan-and-Execute)
+  * GenAI evaluation (faithfulness, relevance, latency)
+  * Security for AI systems (OWASP Top 10 for LLM, guardrails)
+
+* **Data & MLOps Architecture**
+
+  * End-to-end data pipelines (Data Lake, Feature Store, Vector DB)
+  * MLOps pipelines (training, deployment, monitoring, drift)
+  * CI/CD, Infrastructure as Code (Terraform)
+  * Model lifecycle management
+
+* **Infrastructure & Scalability**
+
+  * Kubernetes vs Serverless tradeoffs for AI workloads
+  * High-availability (HA) and disaster recovery (DR)
+  * Resource sizing (CPU, GPU, RAM, VRAM), inference optimization
+  * Hybrid and multi-cloud AI architectures
+
+* **Governance, Cost & Leadership**
+
+  * FinOps-driven architectural decisions
+  * Ethical & Responsible AI by Design
+  * Observability (metrics, logs, traces)
+  * Technical debt management and architectural governance
+
+---
+
+## Professional Focus
+
+I design **intelligent, production-grade systems** that combine **AI, robotics, and software architecture**—balancing performance, scalability, safety, cost, and long-term evolution. My focus is on systems that **think, decide, and act** in real-world conditions, whether purely digital or cyber-physical.
+
+---
+
+## Let’s Connect
+
+If you’re looking for someone who can **architect and engineer intelligent systems end to end**—from requirements and risk analysis to AI + robotics production deployment—I’d be happy to connect:
+
+* **LinkedIn**: [linkedin.com/in/gasym-valiyev-739a55147](https://www.linkedin.com/in/gasym-a-valiyev-739a55147/)
 
 ---
