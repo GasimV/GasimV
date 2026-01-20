@@ -38,7 +38,7 @@ With a background in **Robotics & Mechatronics Engineering**, I bridge **AI soft
 
   * AI system design
   * Distributed systems
-  * **C4 Model (Context, Container, Component, Code)**
+  * C4 Model (Context, Container, Component, Code)
   * API & backend architecture
 * **Design & Engineering**: CAD, Mechanical Design, Electrical & Computer Engineering
 * **Control Systems**: Control Systems Engineering for Robotics
@@ -95,6 +95,6 @@ I design **intelligent, production-grade systems** that combine **AI, robotics, 
 
 If you’re looking for someone who can **architect and engineer intelligent systems end to end**—from requirements and risk analysis to AI + robotics production deployment—I’d be happy to connect:
 
-* **LinkedIn**: [linkedin.com/in/gasym-valiyev-739a55147](https://www.linkedin.com/in/gasym-a-valiyev-739a55147/)
+* **LinkedIn**: [View my LinkedIn profile](https://www.linkedin.com/in/gasym-a-valiyev-739a55147/)
 
 ---
