@@ -53,7 +53,7 @@ With a background in **Robotics & Mechatronics Engineering**, I bridge **AI soft
   * High-Level & Low-Level Design (HLD / LLD)
   * Architecture Decision Records (ADR)
   * Architecture Tradeoff Analysis (ATAM)
-  * API design (OpenAPI), integration patterns
+  * API design (OpenAPI), integration patterns (REST, async messaging, AI protocols such as MCP)
 
 * **GenAI & Intelligent Systems**
 
