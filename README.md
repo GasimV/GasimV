@@ -40,7 +40,7 @@ With a background in **Robotics & Mechatronics Engineering**, I bridge **AI soft
   * Distributed systems
   * C4 Model (Context, Container, Component, Code)
   * API & backend architecture
-* **Design & Engineering**: CAD, Mechanical Design, Electrical & Computer Engineering
+* **Design & Engineering**: CAD, Mechanical & Hardware Design, Electrical & Computer Engineering
 * **Control Systems**: Control Systems Engineering for Robotics
 
 ---
