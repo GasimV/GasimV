@@ -57,14 +57,14 @@ With a background in **Robotics & Mechatronics Engineering**, I bridge **AI soft
 
 * **GenAI & Intelligent Systems**
 
-  * Retrieval-Augmented Generation (RAG, hybrid RAG, re-ranking)
+  * Retrieval-Augmented Generation (RAG, CAG, hybrid RAG, re-ranking)
   * AI Agents & Multi-Agent Systems (ReAct, Plan-and-Execute)
   * GenAI evaluation (faithfulness, relevance, latency)
   * Security for AI systems (OWASP Top 10 for LLM, guardrails)
 
 * **Data & MLOps Architecture**
 
-  * End-to-end data pipelines (Data Lake, Feature Store, Vector DB)
+  * End-to-end data pipelines (ETL/ELT, Data Lake, Data Warehouse (DWH), Feature Store, Vector DB)
   * MLOps pipelines (training, deployment, monitoring, drift)
   * CI/CD, Infrastructure as Code (Terraform)
   * Model lifecycle management
